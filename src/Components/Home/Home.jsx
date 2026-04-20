@@ -1,7 +1,7 @@
 import React from "react";
 import avatarImg from "../../assets/gptpic1.png";
 import TextChange from "../TextChange";
-import Resume from "../../assets/MaazResume9.pdf";
+import Resume from "../../assets/MaazResume15.pdf";
 
 const Home = () => {
   return (
